@@ -1,0 +1,9 @@
+C:\Users\Ye\Desktop\Socket Client\Socket Client\bin\Debug\Socket Client.exe.config
+C:\Users\Ye\Desktop\Socket Client\Socket Client\bin\Debug\Socket Client.exe
+C:\Users\Ye\Desktop\Socket Client\Socket Client\bin\Debug\Socket Client.pdb
+C:\Users\Ye\Desktop\Socket Client\Socket Client\obj\Debug\Socket Client.csprojResolveAssemblyReference.cache
+C:\Users\Ye\Desktop\Socket Client\Socket Client\obj\Debug\Socket_Client.Form1.resources
+C:\Users\Ye\Desktop\Socket Client\Socket Client\obj\Debug\Socket_Client.Properties.Resources.resources
+C:\Users\Ye\Desktop\Socket Client\Socket Client\obj\Debug\Socket Client.csproj.GenerateResource.Cache
+C:\Users\Ye\Desktop\Socket Client\Socket Client\obj\Debug\Socket Client.exe
+C:\Users\Ye\Desktop\Socket Client\Socket Client\obj\Debug\Socket Client.pdb
