@@ -17,6 +17,8 @@ namespace Socket_Client {
         }
 
         private void button1_Click(object sender, EventArgs e) {
+            if (client.Connected) client.Close();
+            client = new System.Net.Sockets.TcpClient();
             client.Connect(textBox1.Text.Split(':')[0], int.Parse(textBox1.Text.Split(':')[1]));
             if (client.Connected) richTextBox1.Text = "Connected!";
             else richTextBox1.Text = "Failed!";

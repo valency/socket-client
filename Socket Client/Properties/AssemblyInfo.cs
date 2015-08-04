@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Socket Client")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HKUST")]
+[assembly: AssemblyCompany("Ye Ding")]
 [assembly: AssemblyProduct("Socket Client")]
-[assembly: AssemblyCopyright("Copyright © HKUST 2014")]
+[assembly: AssemblyCopyright("Copyright © Ye Ding 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
